@@ -1,0 +1,2 @@
+item_id,title,description,url,brand,seller_name,image_url,availability,price,is_ads_eligible
+TEST,Test product,Test product description,https://topboden.de,TopBoden,TopBoden,https://topboden.de/test.jpg,in_stock,1.00 EUR,true
